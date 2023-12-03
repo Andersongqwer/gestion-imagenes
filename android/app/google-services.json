@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281153906087",
+    "project_id": "fire-fotines",
+    "storage_bucket": "fire-fotines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281153906087:android:38aed10b5da19a54574282",
+        "android_client_info": {
+          "package_name": "com.example.fotin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdIj7J-a4_zvsips1foCeqP3WhCIXP0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
